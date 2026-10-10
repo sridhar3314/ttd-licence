@@ -1,4 +1,5 @@
 # Cancelled phones. One device code per line.
 # Cancelled phones. One device code per line.
 # Cancelled phones. One device code per line.
-WT39-THDX-9YVV-3397  # RAKSHITH OLD WHITE PHONE
+# Cancelled phones. One device code per line.
+
