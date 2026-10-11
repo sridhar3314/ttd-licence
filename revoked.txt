@@ -5,5 +5,5 @@
 # Cancelled phones. One device code per line.
 # Cancelled phones. One device code per line.
 # Cancelled phones. One device code per line.
-WAPW-RK77-8XP3-ESAD  # JP DEVICE
+
 
